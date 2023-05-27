@@ -1,0 +1,48 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: 2 sensation caja.ai
+Modo de color: Color CMYK
+Perfil de color: U.S. Web Coated (SWOP) v2
+Unidades de regla: centímetros
+Dimensiones de la mesa de trabajo: 40 cm x 35 cm
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+PANTONE 424 CVC (CMYK)
+PANTONE Orange 021 CVC (CMYK)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Abhaya Libre ExtraBold (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+P:\Documentos\2sentation\qrcode-generado.png
+Tipo: CMYK
+Bits por píxel: 32
+Canales: 4
+Tamaño: 153K, 198 por 198 píxeles
+Dimensiones: 64,671 por 64,671 puntos 
+Resolución: 220,44 por 220,44 píxeles por pulgada
